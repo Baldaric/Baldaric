@@ -6,10 +6,10 @@
 I'm a passionate data enthusiast, currently diving into the fascinating world of Data Science, Machine Learning, and AI. I love turning complex data into clear, actionable insights.
 
 ## 🌟 About Me
-🎓 Data Analyst & Engineer with a keen interest in predictive modeling and computer vision.
-🐍 Skilled in Python, SQL, and TensorFlow.
-📊 Proficient in data visualization tools such as Streamlit, Matplotlib, Seaborn, and Plotly.
-🎲 Passionate about storytelling, world-building, and game mastering for Dungeons & Dragons (D&D).
+🎓 Data Analyst & Engineer with a keen interest in predictive modeling and computer vision.<br>
+🐍 Skilled in Python, SQL, and TensorFlow.<br>
+📊 Proficient in data visualization tools such as Streamlit, Matplotlib, Seaborn, and Plotly.<br>
+🎲 Passionate about storytelling, world-building, and game mastering for Dungeons & Dragons (D&D).<br>
 🎨 Pixel artist and creative writer during my free time.
 
 
