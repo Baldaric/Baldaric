@@ -1,11 +1,11 @@
-**Why did the data scientist break up with their spreadsheet?**
+**Why did the data scientist break up with their spreadsheet?**<br>
 *Because they had too many unresolved issues.*
 
-Hi there, Baldaric here 👋
+# Hi there, Baldaric here 👋
 
 I'm a passionate data enthusiast, currently diving into the fascinating world of Data Science, Machine Learning, and AI. I love turning complex data into clear, actionable insights.
 
-# 🌟 About Me
+## 🌟 About Me
 🎓 Data Analyst & Engineer with a keen interest in predictive modeling and computer vision.
 🐍 Skilled in Python, SQL, and TensorFlow.
 📊 Proficient in data visualization tools such as Streamlit, Matplotlib, Seaborn, and Plotly.
@@ -13,12 +13,12 @@ I'm a passionate data enthusiast, currently diving into the fascinating world of
 🎨 Pixel artist and creative writer during my free time.
 
 
-# 🚀 Current Learning
+## 🚀 Current Learning
  - Advanced machine learning techniques including neural networks and deep learning.
  - Data engineering tools such as Apache Airflow, Docker, AWS Glue, and Kibana.
  - Continuous improvement of roleplaying and storytelling skills in D&D campaigns.
 
-# 💼 Projects
+## 💼 Projects
 
 **Recent Projects**
  - Airplane Accident Prediction App: A machine learning-based web application built with Streamlit and TensorFlow.
@@ -29,7 +29,7 @@ I'm a passionate data enthusiast, currently diving into the fascinating world of
  - False Hydra D&D Campaign: Psychological horror adventure designed for immersive roleplaying experiences.
  - Yu-Gi-Oh! Card Categorization: Clustering analysis to classify card effects and roles.
 
-# ⚙️ Technologies & Tools
+## ⚙️ Technologies & Tools
  - Python
  - TensorFlow
  - Streamlit
@@ -43,7 +43,7 @@ I'm a passionate data enthusiast, currently diving into the fascinating world of
  - Random Forest
  - Linear Regression
 
-# 📫 Connect with me
+## 📫 Connect with me
 
 [LinkedIn](www.linkedin.com/in/affananitya)
 affan.anitya@gmail.com
