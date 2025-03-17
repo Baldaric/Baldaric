@@ -45,7 +45,7 @@ I'm a passionate data enthusiast, currently diving into the fascinating world of
 
 ## 📫 Connect with me
 
-[LinkedIn](www.linkedin.com/in/affananitya)
+[LinkedIn](www.linkedin.com/in/affananitya)<br>
 affan.anitya@gmail.com
 
 Feel free to reach out or collaborate! I'm always excited to connect, learn, and share ideas.
